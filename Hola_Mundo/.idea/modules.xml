@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Hola_Mundo.iml" filepath="$PROJECT_DIR$/Hola_Mundo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Sentencia IF - ELSE/Sentencia IF - ELSE.iml" filepath="$PROJECT_DIR$/../Sentencia IF - ELSE/Sentencia IF - ELSE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../Varaibles/Sentencias IF -ELSE.iml" filepath="$PROJECT_DIR$/../Varaibles/Sentencias IF -ELSE.iml" />
       <module fileurl="file://$PROJECT_DIR$/../Varaibles/Varaibles.iml" filepath="$PROJECT_DIR$/../Varaibles/Varaibles.iml" />
     </modules>
   </component>

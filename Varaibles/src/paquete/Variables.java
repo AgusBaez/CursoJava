@@ -5,7 +5,7 @@ class Varaibles {
         //anotaciones
         int Num_1;
         Num_1 = 5;
-        System.out.println("Este va a ser mi numero con la varaible int"+Num_1);
+        System.out.println("Este va a ser mi numero con la varaible int " +Num_1);
         int resultado;
         //Numeros enteros Varaibles: Short,int,long
         resultado = Num_1 - 2;
